@@ -60,7 +60,7 @@ El archivo pom.xml especifica las siguientes dependencias:
 
 3. **spring-boot-starter-web:** Habilita el desarrollo de aplicaciones web utilizando Spring MVC y otros componentes web de Spring Boot.
 
-## Dependencias para Documentación y API
+### Dependencias para Documentación y API
 1. **springdoc-openapi-starter-webmvc-ui:** Facilita la generación de documentación de API utilizando OpenAPI 3 con Spring Web MVC, incluyendo una interfaz de usuario para interactuar con la documentación generada.
 ### Dependencias de Base de Datos
 1. **mysql-connector-j:** Conector JDBC para MySQL, necesario para integrar la base de datos MySQL con la aplicación Spring Boot.
