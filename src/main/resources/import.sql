@@ -1,0 +1,1 @@
+INSERT INTO tbl_clients(name, email, phone, address, city ) VALUES("Sofia Arroyos", "sofiaarroyos@bit.com", "3215673499", "Calle 123 #12-43", "Argentina")
